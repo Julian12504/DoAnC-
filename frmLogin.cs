@@ -2,7 +2,7 @@
 using QuanLyQuanCafe.DTO;
 using System.Windows.Forms;
 using System;
-//thanh hung nes
+//thanh hung nesdsssssssssssssssssss
 namespace QuanLyQuanCafe
 {
     public partial class frmLogin : Form
